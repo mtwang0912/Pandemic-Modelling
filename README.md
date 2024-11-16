@@ -1,6 +1,10 @@
 # Pandemic-Modelling
 BSc Project: A Network Science Approach to Pandemic Modelling
 
+The full report can be found here: https://github.com/mtwang0912/Pandemic-Modelling/blob/main/PandemicModelling_02020640_DaveClements_TimEvans.pdf
+
+The viva presentation can be found here: https://github.com/mtwang0912/Pandemic-Modelling/blob/main/BSc%20Project%20Viva.mp4 
+
 
 # Overview of Achievements
 This project aimed to simulate the spread of a disease within finite populations using small-world network models, employing the Susceptible-Infected-Recovered (SIR) epidemiological model. The study successfully:
